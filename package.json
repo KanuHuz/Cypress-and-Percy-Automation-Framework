@@ -1,0 +1,25 @@
+{
+  "name": "cypress-and-percy-course",
+  "version": "1.0.0",
+  "description": "Repository to show some basic examples of Cypress integration with Percy.io",
+  "main": "index.js",
+  "scripts": {
+    "test": " percy exec -- cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KanuHuz/Cypress-Percy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanuHuz/Cypress-Percy"
+  },
+  "homepage": "TBD",
+  "devDependencies": {
+    "@percy/cli": "^1.16.0",
+    "@percy/cypress": "^3.1.2",
+    "cypress": "^12.1.0"
+  }
+}
