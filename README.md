@@ -1,4 +1,4 @@
-#  cypress-and-percy-course
+#  Cypress-and-percy-course
 Repository for the basic course of visual regression testing with Cypress and Percy.
 
 #  Pre-requirements
